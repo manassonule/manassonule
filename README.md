@@ -45,7 +45,7 @@ My focus is on strengthening my programming fundamentals, exploring development 
 
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/profile.jpeg" width="230" alt="Manas Sonule" />
+<img src="./profile.jpeg" width="230" alt="Manas Sonule" />
 
 </td>
 </tr>
